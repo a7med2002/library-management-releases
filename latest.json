@@ -1,0 +1,9 @@
+{
+  "versionName": "1.0.1",
+  "versionCode": 2,
+  "apkUrl": "رابط ملف APK نفسه من الـ Release",
+  "sha256": "4EF86DD3A45078FA1C8BF07A742AF6C7BE2E3D19D626EBAED7557CE0833CF951",
+  "releaseNotes": ["نسخة الأساس مع دعم التحديثات"],
+  "forceUpdate": false,
+  "minimumSupportedVersionCode": 2
+}
